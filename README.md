@@ -29,7 +29,9 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+Your thought here
+
+The benefits of integration tests in a project include verifying system behavior, catching issues with component interactions, ensuring realistic scenarios, maintaining quality, aiding regression testing, serving as living documentation, fostering collaboration, supporting CI/CD, boosting confidence, and reducing debugging time.
 ```
 
 
